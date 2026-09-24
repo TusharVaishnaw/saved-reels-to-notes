@@ -1,0 +1,11 @@
+.env
+data/
+notes/
+__pycache__/
+*.pyc
+.venv/
+venv/
+tldw/
+.deepeval/
+test_reels.json
+*.log
