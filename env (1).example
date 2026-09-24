@@ -1,0 +1,5 @@
+GEMINI_API_KEY=
+WHISPER_MODEL=small
+TLDW_DIR=/path/to/cloned/tldw
+TLDW_CDP=http://localhost:9226
+KEEP_VIDEO=0
